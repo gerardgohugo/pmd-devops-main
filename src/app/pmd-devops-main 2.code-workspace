@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../pmdapi-main"
+	},
+	{
+		"path": "../../../pmd-devops-feature-home-page"
+	}
+],
+  "settings": {}
+}
